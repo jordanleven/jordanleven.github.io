@@ -1,6 +1,6 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[2],{wHSu:function(c,n,r){"use strict";r.d(n,"a",(function(){return i})),r.d(n,"d",(function(){return e})),r.d(n,"b",(function(){return o})),r.d(n,"c",(function(){return f})),r.d(n,"e",(function(){return a})),r.d(n,"i",(function(){return u})),r.d(n,"f",(function(){return d})),r.d(n,"h",(function(){return l})),r.d(n,"g",(function(){return h}));
 /*!
- * Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * Copyright 2022 Fonticons, Inc.
  */
