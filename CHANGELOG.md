@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.11.1](https://github.com/jordanleven/jordanleven.com/compare/v1.11.0...v1.11.1) (2022-06-11)
+
+
+### Bug Fixes
+
+* Dark mode hover colors on PortfolioListItem ([3b52b8f](https://github.com/jordanleven/jordanleven.com/commit/3b52b8f554d317e27c76bc80b8ac634f838b423e))
+
 ## [1.11.0](https://github.com/jordanleven/jordanleven.com/compare/v1.10.0...v1.11.0) (2022-04-16)
 
 
