@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/jordanleven/jordanleven.com/compare/v1.11.1...v1.12.0) (2023-02-20)
+
+
+### Features
+
+* Add additional projects and articles ([9de59c3](https://github.com/jordanleven/jordanleven.com/commit/9de59c3357974e18a256a2f6e6125c7fa9ce442e))
+* Organize projects by year ranges ([fdec19c](https://github.com/jordanleven/jordanleven.com/commit/fdec19cdd7e1248b1037b0e60be56a25dedbddfe))
+
 ### [1.11.1](https://github.com/jordanleven/jordanleven.com/compare/v1.11.0...v1.11.1) (2022-06-11)
 
 
