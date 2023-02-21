@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.1](https://github.com/jordanleven/jordanleven.com/compare/v1.12.0...v1.12.1) (2023-02-21)
+
+
+### Bug Fixes
+
+* IO animations on project quotes ([8c3cbae](https://github.com/jordanleven/jordanleven.com/commit/8c3cbae817d19060beb005a85b20819925964a27))
+* Issue loading animations on Chrome 110 ([6bc46de](https://github.com/jordanleven/jordanleven.com/commit/6bc46deefb54ea92cd88296486eb114f3d001fdc))
+* Project CTA layout on dark mode ([e4751e9](https://github.com/jordanleven/jordanleven.com/commit/e4751e9a53b9b5fa4214745005145c8f14a92f15))
+
 ## [1.12.0](https://github.com/jordanleven/jordanleven.com/compare/v1.11.1...v1.12.0) (2023-02-20)
 
 
