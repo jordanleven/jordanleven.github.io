@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/jordanleven/jordanleven.com/compare/v1.12.1...v1.13.0) (2023-02-21)
+
+
+### Features
+
+* Add projects to Homepage ([3fef0d5](https://github.com/jordanleven/jordanleven.com/commit/3fef0d5190ac02ee8317997650e7aac5bc11bf42))
+* Migrate IO mixin to Composition API ([54d7bb1](https://github.com/jordanleven/jordanleven.com/commit/54d7bb1ca9cc9fee5e702c19baa399141694e52c))
+
 ### [1.12.1](https://github.com/jordanleven/jordanleven.com/compare/v1.12.0...v1.12.1) (2023-02-21)
 
 
