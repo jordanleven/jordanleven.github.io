@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.14.1](https://github.com/jordanleven/jordanleven.com/compare/v1.14.0...v1.14.1) (2023-02-22)
+
+
+### Bug Fixes
+
+* Layout issue for ProjectQuote component ([2468a7d](https://github.com/jordanleven/jordanleven.com/commit/2468a7da260fe16918a2229144f21c526c927e75))
+
 ## [1.14.0](https://github.com/jordanleven/jordanleven.com/compare/v1.13.0...v1.14.0) (2023-02-22)
 
 
