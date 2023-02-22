@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/jordanleven/jordanleven.com/compare/v1.13.0...v1.14.0) (2023-02-22)
+
+
+### Features
+
+* Update Featured Projects header on Homepage ([9e49374](https://github.com/jordanleven/jordanleven.com/commit/9e49374dae4e5989d394ddd5f24b36196a52b19b))
+
 ## [1.13.0](https://github.com/jordanleven/jordanleven.com/compare/v1.12.1...v1.13.0) (2023-02-21)
 
 
