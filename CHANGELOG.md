@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/jordanleven/jordanleven.com/compare/v1.14.1...v1.15.0) (2023-02-23)
+
+
+### Features
+
+* Remove requirement for JavaScript ([e9fd1ed](https://github.com/jordanleven/jordanleven.com/commit/e9fd1eda67293c6f3c0b84e8d786518917b471f7))
+
 ### [1.14.1](https://github.com/jordanleven/jordanleven.com/compare/v1.14.0...v1.14.1) (2023-02-22)
 
 
