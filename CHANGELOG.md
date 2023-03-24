@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.16.0](https://github.com/jordanleven/jordanleven.com/compare/v1.15.1...v1.16.0) (2023-03-24)
+
+
+### Features
+
+* Migrate to Plausible Analytics ([dee0123](https://github.com/jordanleven/jordanleven.com/commit/dee012368de952230af6251e8c2ccd2c697c9840))
+
 ### [1.15.1](https://github.com/jordanleven/jordanleven.com/compare/v1.15.0...v1.15.1) (2023-03-04)
 
 ## [1.15.0](https://github.com/jordanleven/jordanleven.com/compare/v1.14.1...v1.15.0) (2023-02-23)
