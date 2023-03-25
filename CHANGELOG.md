@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.16.2](https://github.com/jordanleven/jordanleven.com/compare/v1.16.1...v1.16.2) (2023-03-25)
+
+
+### Bug Fixes
+
+* Expiration for excludeFromAnalytics cookie ([dfd6c79](https://github.com/jordanleven/jordanleven.com/commit/dfd6c79053caefa992a22b5b70144f16dbd9baee))
+
 ### [1.16.1](https://github.com/jordanleven/jordanleven.com/compare/v1.16.0...v1.16.1) (2023-03-24)
 
 ## [1.16.0](https://github.com/jordanleven/jordanleven.com/compare/v1.15.1...v1.16.0) (2023-03-24)
