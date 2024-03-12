@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/jordanleven/jordanleven.com/compare/v1.17.5...v2.0.0) (2024-03-12)
+
+
+### Features
+
+* Update to Nuxt ([a880f0a](https://github.com/jordanleven/jordanleven.com/commit/a880f0adc46d09167b8d9f6dceab1ed88456ee37))
+
 ### [1.17.5](https://github.com/jordanleven/jordanleven.com/compare/v1.17.4...v1.17.5) (2024-03-09)
 
 ### [1.17.4](https://github.com/jordanleven/jordanleven.com/compare/v1.17.3...v1.17.4) (2023-11-18)

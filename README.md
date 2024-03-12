@@ -1,6 +1,6 @@
 # Jordan's Personal Website
 
-Hello there! You may be wondering what this repository is for. Although my main website is located at [jordanleven.com], the exact same site is also available on GitHub at [jordanleven.github.io]. This repository contains distribution files, not source code files. Whenever a new version of the site is released using [Standard Version], a GitHub Actions pipeline builds the distribution files and simultaneously deploys them to the production instance of [jordanleven.com] and commits them in this repository, making them available for [jordanleven.github.io]. While jordanleven.com is hosted on [Netlify][netlify], jordanleven.github.io is hosted on GitHub pages.
+Hello there! You may be wondering what this repository is for. Although my main website is located at [jordanleven.com], the exact same site is also available on GitHub at [jordanleven.github.io]. This repository contains distribution files, not source code. Whenever a new version of the site is released using [Standard Version], a GitHub Actions pipeline builds the distribution files and simultaneously deploys them to the production instance of [jordanleven.com] and commits them in this repository, making them available for [jordanleven.github.io]. While jordanleven.com is hosted on [Netlify][netlify], jordanleven.github.io is hosted on GitHub Pages.
 
 ## Changes
 
