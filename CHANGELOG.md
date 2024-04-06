@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/jordanleven/jordanleven.com/compare/v2.0.1...v2.0.2) (2024-04-06)
+
 ### [2.0.1](https://github.com/jordanleven/jordanleven.com/compare/v2.0.0...v2.0.1) (2024-04-04)
 
 ## [2.0.0](https://github.com/jordanleven/jordanleven.com/compare/v1.17.5...v2.0.0) (2024-03-12)
