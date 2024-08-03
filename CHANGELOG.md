@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.8](https://github.com/jordanleven/jordanleven.com/compare/v2.0.7...v2.0.8) (2024-08-03)
+
+
+### Bug Fixes
+
+* Issue with date types ([7d3bdc8](https://github.com/jordanleven/jordanleven.com/commit/7d3bdc835559a92dc59c99e2f0b90b5fbc39d1c0))
+
 ### [2.0.7](https://github.com/jordanleven/jordanleven.com/compare/v2.0.6...v2.0.7) (2024-07-05)
 
 ### [2.0.6](https://github.com/jordanleven/jordanleven.com/compare/v2.0.5...v2.0.6) (2024-06-12)
