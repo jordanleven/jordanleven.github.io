@@ -1,0 +1,1 @@
+import{_ as n,o,c as r,r as s}from"./B-FoGL5w.js";const c={};function t(e,a){return o(),r("code",null,[s(e.$slots,"default")])}const _=Object.assign(n(c,[["render",t]]),{__name:"ProseCodeInline"});export{_ as default};

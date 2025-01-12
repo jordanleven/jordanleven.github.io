@@ -1,0 +1,1 @@
+import{e as n,J as e}from"./B-FoGL5w.js";const o=n({name:"DocumentDrivenNotFound",render(){return e("div","Document not found")}}),m=Object.assign(o,{__name:"DocumentDrivenNotFound"});export{m as default};
