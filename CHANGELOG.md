@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.7](https://github.com/jordanleven/jordanleven.com/compare/v2.1.6...v2.1.7) (2026-03-28)
+
+### [2.1.6](https://github.com/jordanleven/jordanleven.com/compare/v2.1.5...v2.1.6) (2026-03-21)
+
+
+### Bug Fixes
+
+* resolve h3 security vulnerabilities ([7b3b34c](https://github.com/jordanleven/jordanleven.com/commit/7b3b34c03a05de9d476d523cd3e56b91706c6150))
+
 ### [2.1.5](https://github.com/jordanleven/jordanleven.com/compare/v2.1.4...v2.1.5) (2026-03-20)
 
 ### [2.1.4](https://github.com/jordanleven/jordanleven.com/compare/v2.1.3...v2.1.4) (2026-03-16)
