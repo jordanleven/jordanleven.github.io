@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/jordanleven/jordanleven.com/compare/v2.1.7...v2.2.0) (2026-03-29)
+
+
+### Features
+
+* Add Playwright e2e and content regression tests ([d3dee3f](https://github.com/jordanleven/jordanleven.com/commit/d3dee3f56806a059bac818b1ea86b944d5add5ae))
+
 ### [2.1.7](https://github.com/jordanleven/jordanleven.com/compare/v2.1.6...v2.1.7) (2026-03-28)
 
 ### [2.1.6](https://github.com/jordanleven/jordanleven.com/compare/v2.1.5...v2.1.6) (2026-03-21)
