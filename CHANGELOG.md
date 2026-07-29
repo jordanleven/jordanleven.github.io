@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/jordanleven/jordanleven.com/compare/v2.2.8...v2.3.0) (2026-07-29)
+
+
+### Features
+
+* Add BaseIcon and migrate all icon usage to it ([f410b74](https://github.com/jordanleven/jordanleven.com/commit/f410b741191f7bc8cf37a2c95903a950f147dcc7))
+* Add environment-gated feature flag composable ([ba0f292](https://github.com/jordanleven/jordanleven.com/commit/ba0f292acde5027b13a749d26e5f30be4eb58dc2))
+* Rename routes to /work and /writing ([2baa3e6](https://github.com/jordanleven/jordanleven.com/commit/2baa3e62b694032492a7431544d0e99edf1d9c8b))
+
+
+### Bug Fixes
+
+* Fix hydration mismatch in no-JS notice ([fa66cca](https://github.com/jordanleven/jordanleven.com/commit/fa66cca52c0a7298d2b5464379115e7916352940))
+* Stop preloading unused payload JSON files ([7232478](https://github.com/jordanleven/jordanleven.com/commit/72324782fc924b0c060603c61c76a7f07725a34f))
+
 ### [2.2.8](https://github.com/jordanleven/jordanleven.com/compare/v2.2.7...v2.2.8) (2026-07-11)
 
 ### [2.2.7](https://github.com/jordanleven/jordanleven.com/compare/v2.2.6...v2.2.7) (2026-05-16)
