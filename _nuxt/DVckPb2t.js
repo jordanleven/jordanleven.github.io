@@ -1,0 +1,1 @@
+import{P as r}from"./BCsr8ocB.js";const o=["development","qa","production"],c={contactPage:"development"},i=(e,t)=>{const s=o.indexOf(t);return Object.fromEntries(Object.entries(e).map(([n,a])=>[n,s<=o.indexOf(a)]))},l=()=>{const{public:{appEnv:e}}=r(),t=i(c,e);return{isFeatureFlagActive:n=>t[n]??!1}};export{l as f};

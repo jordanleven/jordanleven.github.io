@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/jordanleven/jordanleven.com/compare/v2.3.2...v2.4.0) (2026-08-16)
+
+
+### Features
+
+* Add a flagged contact page, link footer email to it ([4fff99c](https://github.com/jordanleven/jordanleven.com/commit/4fff99cb76dcae8f945ca16b78d1af089919d4f9))
+* Redesign the footer ([347112f](https://github.com/jordanleven/jordanleven.com/commit/347112fdaf317b049b73648f24a7a246984dc753))
+
+
+### Bug Fixes
+
+* Fix safe-area handling on notched iPhones ([094bcc5](https://github.com/jordanleven/jordanleven.com/commit/094bcc50985ce9f6952ccf185c70e4dbc520c2e9))
+* Let project summary use full width on mobile ([cb2c3ef](https://github.com/jordanleven/jordanleven.com/commit/cb2c3efb1c1f063418953c7e788a6159c0d3978b))
+* Remove extra portfolio list padding on mobile ([e0e4ad6](https://github.com/jordanleven/jordanleven.com/commit/e0e4ad6776ec9a201c08a22a0f21da07978907d4))
+* Trigger the quote reveal at a precise scroll point ([d79a163](https://github.com/jordanleven/jordanleven.com/commit/d79a16391acbab0206986c9823cfa50b7a6e514b))
+
 ### [2.3.2](https://github.com/jordanleven/jordanleven.com/compare/v2.3.1...v2.3.2) (2026-08-15)
 
 ### [2.3.1](https://github.com/jordanleven/jordanleven.com/compare/v2.3.0...v2.3.1) (2026-08-02)
