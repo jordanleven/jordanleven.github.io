@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/jordanleven/jordanleven.com/compare/v2.4.1...v2.5.0) (2026-10-01)
+
+
+### Features
+
+* Build and ship the contact page ([76d8986](https://github.com/jordanleven/jordanleven.com/commit/76d89866feda173ee27068bead2246299992066b))
+
+### [2.4.1](https://github.com/jordanleven/jordanleven.com/compare/v2.4.0...v2.4.1) (2026-09-05)
+
 ## [2.4.0](https://github.com/jordanleven/jordanleven.com/compare/v2.3.2...v2.4.0) (2026-08-16)
 
 
