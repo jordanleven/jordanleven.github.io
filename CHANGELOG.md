@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.1](https://github.com/jordanleven/jordanleven.com/compare/v2.6.0...v2.6.1) (2026-10-18)
+
+## [2.6.0](https://github.com/jordanleven/jordanleven.com/compare/v2.5.0...v2.6.0) (2026-10-18)
+
+
+### Features
+
+* Redesign the writing pages ([2f94a97](https://github.com/jordanleven/jordanleven.com/commit/2f94a97e795dbac64da0b020acff8711b55e2177))
+
+
+### Bug Fixes
+
+* Wait for hydration in contact form e2e tests ([a79ed04](https://github.com/jordanleven/jordanleven.com/commit/a79ed04fecdf6a83cbe8a48fe2aae5b1200d9737))
+
 ## [2.5.0](https://github.com/jordanleven/jordanleven.com/compare/v2.4.1...v2.5.0) (2026-10-01)
 
 

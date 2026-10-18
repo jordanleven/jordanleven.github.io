@@ -1,1 +1,0 @@
-import{P as r}from"./DdetrtJZ.js";const E="development",N="qa",c="production",o=[E,N,c],i={contactPage:c},O=(t,e)=>{const s=o.indexOf(e);return Object.fromEntries(Object.entries(t).map(([n,a])=>[n,s<=o.indexOf(a)]))},F=()=>{const{public:{appEnv:t}}=r(),e=O(i,t);return{isFeatureFlagActive:n=>e[n]??!1}};export{F as f};
