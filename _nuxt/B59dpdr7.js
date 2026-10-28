@@ -1,0 +1,1 @@
+import{o as e}from"./CrLWqNmZ.js";var t=`development`,n=`production`,r=[t,`qa`,n],i={contactPage:n},a=(e,t)=>{let n=r.indexOf(t);return Object.fromEntries(Object.entries(e).map(([e,t])=>[e,n<=r.indexOf(t)]))},o=()=>{let{public:{appEnv:t}}=e(),n=a(i,t);return{isFeatureFlagActive:e=>n[e]??!1}};export{o as t};

@@ -1,1 +1,0 @@
-import{k as e,mt as t,v as n}from"./ClT0klS_.js";import{t as r}from"./DrIc_FD-.js";var i=e({__name:`[...404]`,setup(e){return(e,i)=>(t(),n(r))}});export{i as default};

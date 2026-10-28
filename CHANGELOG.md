@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/jordanleven/jordanleven.com/compare/v2.6.1...v2.7.0) (2026-10-28)
+
+
+### Features
+
+* Add n and p shortcuts to the content nav ([879195a](https://github.com/jordanleven/jordanleven.com/commit/879195a41e58427b5704c2eab43b5b1ee5a4bef2))
+* Fail the build on malformed content dates ([42c33c5](https://github.com/jordanleven/jordanleven.com/commit/42c33c5812c43d32809f2f9806816163696a1038))
+* Redesign the work pages ([849b28a](https://github.com/jordanleven/jordanleven.com/commit/849b28a17ab1d53514d3e8f4489773c674d469ab))
+* Refresh project thumbnails and heroes ([b0d5e0a](https://github.com/jordanleven/jordanleven.com/commit/b0d5e0af4e70eed2fd92ac6955aaf936fa5565ba))
+* Respect reduced-motion preferences ([d1ef2b0](https://github.com/jordanleven/jordanleven.com/commit/d1ef2b03c3b7ed6a90c67a3a8dc05ca5f4b8572a))
+* Reuse prerendered data when pages hydrate ([f988f62](https://github.com/jordanleven/jordanleven.com/commit/f988f6216c8efca1122155d336ef341b6dad22af))
+
+
+### Bug Fixes
+
+* Redirect old double-dash project URLs ([b13ed13](https://github.com/jordanleven/jordanleven.com/commit/b13ed13f90d02a085b47d92d8e1c372c2316baf7))
+
 ### [2.6.1](https://github.com/jordanleven/jordanleven.com/compare/v2.6.0...v2.6.1) (2026-10-18)
 
 ## [2.6.0](https://github.com/jordanleven/jordanleven.com/compare/v2.5.0...v2.6.0) (2026-10-18)

@@ -1,1 +1,0 @@
-var e={timeZone:`America/New_York`},t={...e,day:`numeric`,month:`long`,year:`numeric`},n={...e,month:`short`,year:`numeric`},r=e=>{switch(e){case`short`:return n;default:return t}},i=e=>({...r(e)}),a=(e,t)=>{let n=t?.dateFormat,r=i(n);return e.toLocaleDateString(`en-US`,r)};export{a as t};
