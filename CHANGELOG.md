@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.1](https://github.com/jordanleven/jordanleven.com/compare/v2.7.0...v2.7.1) (2026-10-29)
+
+
+### Bug Fixes
+
+* Navigate without the WASM sqlite client ([8c059ba](https://github.com/jordanleven/jordanleven.com/commit/8c059ba894ecca668e8209a0c9d2e6fc03f495db))
+
 ## [2.7.0](https://github.com/jordanleven/jordanleven.com/compare/v2.6.1...v2.7.0) (2026-10-28)
 
 

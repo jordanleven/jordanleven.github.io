@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./ClT0klS_.js";import{t as r}from"./DZyQj-AO.js";var i=e({__name:`[...404]`,setup(e){return(e,i)=>(t(),n(r))}});export{i as default};
