@@ -1,1 +1,0 @@
-import{b as e,mt as t,xt as n}from"./ClT0klS_.js";import{t as r}from"#entry";var i={};function a(r,i){return t(),e(`thead`,null,[n(r.$slots,`default`)])}var o=Object.assign(r(i,[[`render`,a]]),{__name:`ProseThead`});export{o as default};

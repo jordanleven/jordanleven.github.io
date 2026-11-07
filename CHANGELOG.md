@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.8.0](https://github.com/jordanleven/jordanleven.com/compare/v2.7.1...v2.8.0) (2026-11-07)
+
+
+### Features
+
+* Let readers scrub mobile gallery dots ([24c0806](https://github.com/jordanleven/jordanleven.com/commit/24c0806763490b49642a439cdfeafb9461cee6b2))
+* Let scroll reveals be turned off and on ([16485a2](https://github.com/jordanleven/jordanleven.com/commit/16485a2fb8363b153a126f61e83309b56843e505))
+* Refine the Work tiles ([1f433c7](https://github.com/jordanleven/jordanleven.com/commit/1f433c79049a1a47636f658cce4295c2e056b469))
+
 ### [2.7.1](https://github.com/jordanleven/jordanleven.com/compare/v2.7.0...v2.7.1) (2026-10-29)
 
 
