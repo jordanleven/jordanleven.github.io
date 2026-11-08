@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.9.0](https://github.com/jordanleven/jordanleven.com/compare/v2.8.0...v2.9.0) (2026-11-08)
+
+
+### Features
+
+* Show when this browser skips analytics ([c557d17](https://github.com/jordanleven/jordanleven.com/commit/c557d177785c165b059c9353a0254d12d4351595))
+
 ## [2.8.0](https://github.com/jordanleven/jordanleven.com/compare/v2.7.1...v2.8.0) (2026-11-07)
 
 
