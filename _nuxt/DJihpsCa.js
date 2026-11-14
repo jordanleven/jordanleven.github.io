@@ -1,0 +1,1 @@
+import{R as e,S as t,p as n}from"./B-cwaAne.js";import{t as r}from"./nx8v__gh.js";var i=t({__name:`[...404]`,setup(t){return(t,i)=>(e(),n(r))}});export{i as default};

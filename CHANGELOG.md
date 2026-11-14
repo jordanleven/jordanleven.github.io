@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.10.0](https://github.com/jordanleven/jordanleven.com/compare/v2.9.0...v2.10.0) (2026-11-14)
+
+
+### Features
+
+* Redesign the site header ([7c5abc2](https://github.com/jordanleven/jordanleven.com/commit/7c5abc2502d5b064a6059fffb9c1db1500a3ca77))
+
+
+### Bug Fixes
+
+* Keep hidden labels in one clipped line ([3a09cff](https://github.com/jordanleven/jordanleven.com/commit/3a09cff146ff90efb8405f0211abafe5bfcde89d))
+* Make dot scrubbing work on touch devices ([a2d2223](https://github.com/jordanleven/jordanleven.com/commit/a2d22236cbbc9075601a3dff5172d9ae30dfb3f5))
+* Send analytics only from production ([35a71b8](https://github.com/jordanleven/jordanleven.com/commit/35a71b8b5390eb79da25f59a33dc49c731486194))
+
 ## [2.9.0](https://github.com/jordanleven/jordanleven.com/compare/v2.8.0...v2.9.0) (2026-11-08)
 
 
